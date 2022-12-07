@@ -6,7 +6,7 @@ function TopButtons({ setQuery }) {
     },
     {
       id: 2,
-      title: "Curitiba",
+      title: "Parana",
     },
     {
       id: 3,
