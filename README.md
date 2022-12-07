@@ -27,7 +27,7 @@ npx start
 
 You can view the project through the links below:
 
-- [Live Preview](https://weatherappv2.netlify.app/)
+- [Live Preview](https://weatherappvv2.netlify.app/)
 
 
 ## 📝 License
